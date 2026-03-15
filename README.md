@@ -4,7 +4,8 @@
 
 **University:** University of the Cumberlands  
 **Dataset:** Framingham Heart Study  
-**Source:** [Kaggle – aasheesh200/framingham-heart-study-dataset](https://www.kaggle.com/datasets/aasheesh200/framingham-heart-study-dataset)
+**Source:** [Kaggle – aasheesh200/framingham-heart-study-dataset](https://www.kaggle.com/datasets/aasheesh200/framingham-heart-study-dataset)  
+**Platform** : [Google colab notebook](https://colab.research.google.com/drive/17E0lKZ8Bc7MRTQmdLA5whVpqzP7aMIgA?usp=sharing)
 
 ---
 
